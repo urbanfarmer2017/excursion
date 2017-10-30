@@ -1,0 +1,36 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+.discover, .soon {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+#download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.guide {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#remember {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+
+#copy {
+  text-align: center;
+  color: gray;
+}
